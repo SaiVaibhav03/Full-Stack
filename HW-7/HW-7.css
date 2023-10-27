@@ -1,0 +1,54 @@
+body {
+    background-color: lightgray;
+}
+
+main {
+    width: 800px;
+}
+
+#navlogo {
+    width: 100px;
+}
+
+.post {
+    background-color: white;
+    border: 3px solid steelblue;
+}
+
+nav  li {
+    display: inline;
+}
+fo
+.post button {
+    border: pink 2px solid;
+}
+
+a:visited {
+    color: teal;
+}
+
+a[href^="www"]{
+    color: orange;
+}
+
+.post h2::after {
+    content: "!";
+}
+
+h1 + p {
+    font-size: 20px;
+    color: steelblue;
+}
+
+.post p::first-letter {
+    font-size: 30px;
+}
+
+.post:nth-of-type(2n) {
+    background-color: aliceblue
+  }
+
+
+
+
+
