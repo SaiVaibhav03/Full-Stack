@@ -1,0 +1,39 @@
+/*Give the body a background color of lightgrey*/
+
+
+/* Give the <main> element a width of 800 pixels*/
+
+
+/* Give the element with the ID of navlogo a width of 100px*/
+
+
+/* Give all elements with the class of "post" a white background color and a 3px steelblue border*/
+
+
+/* Select the li elements that are inside of the element with the ID of "navbar" and make them inline elements */
+
+
+/* Select all buttons nested inside of elements with the class of "post", and give them a 2px pink border.*/
+
+
+/* Make all visited links teal */
+
+
+/* Select all links with an href attribute that begins with "www" and make them orange*/
+
+
+/* 
+Select each h2 that is nested inside of an element with the class of "post", and add an exclamation point to the end of the h2 (using ONLY CSS)
+
+Basically add an '!' to the end of each blog post title.  Make sure the h2 that says "Recent Posts" is not included.
+*/
+
+
+
+/* Select all paragraphs that are adjacent to an h1 and make them 20px font and give them a color of steelblue.  (there is only one paragraph that will be styled here) */
+
+
+/* Make the first letter of each paragraph in each blog post 30px font size.  Make sure you are only selecting the paragraphs nested inside of elements with the class of "post".  Do not select the "This is my blog. Blah Blah Blah." paragraph */
+
+
+/* Give every second blog post div (class of "post") a background color of aliceblue.  Make sure you are styling every EVEN numbered post. The first post should be white, the second steelblue, etc.*/
