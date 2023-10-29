@@ -1,0 +1,10 @@
+    HW-9
+--------------
+
+o   Border 
+o   Padding 
+o   marign
+o   BoxSizing:        (Content-Box, Border-Box)
+o   Background-clip:  (Content-Box, Padding-Box, Border-Box, text)
+o   inline-block
+

@@ -1,0 +1,49 @@
+nav li {
+    display: inline;
+    border-right: 2px black solid;
+    padding-right: 10px;
+    margin-left: 10px;
+}
+
+
+li:nth-last-child(1){
+    border-right: 0px;
+}
+
+#gallery img {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+    border-right: 5px red solid;
+    background-color: yellow;
+}
+
+#gallery img:hover{
+    border-right: 5px magenta solid;
+    background-color: cyan;
+    padding: 5px;
+}
+
+#register-form {
+    margin-top: 10px;
+    border-top: rgb(70, 29, 158) 3px solid;    
+    width: 400px;
+}
+
+#register-form input{
+    display: block;
+    width: 400px;
+    height: 30px;
+    margin-bottom: 10px;  
+    box-sizing: border-box;
+}
+
+#register-form button{
+    display: block;
+    width: 400px;
+    height: 30px;
+    background-color: steelblue;
+    color: white;
+}
+
