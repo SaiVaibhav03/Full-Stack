@@ -1,0 +1,23 @@
+    HW-1
+--------------
+
+ 
+ 
+                         Container-Properties
+                        ______________________
+
+o   flex-direction    : row, column, row-reverse, column-reverse  
+o   flex-wrap         : wrap, wrap-reverse
+o   justify-content   : flex-start, center, flex-end, space-around, space-between
+o   align-items       : flex-start, center, flex-end, baseline, 
+o   align-content     : flex-start, center, flex-end, space-around, space-between
+
+
+
+                         flex-item-Properties
+                        ______________________
+
+o   align-self       : flex-start, center, flex-end, baseline, 
+o   flex-basis  
+o   flex-grow
+o   flex-shrink
