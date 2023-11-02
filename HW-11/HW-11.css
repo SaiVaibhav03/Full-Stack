@@ -1,0 +1,40 @@
+body {
+    background-color: #eee;
+    margin: 0%;
+    font-family: papyrus;
+}
+
+nav {
+    height: 100px;
+    background-color: white;
+    display: flex;
+}
+
+nav a {
+    color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+
+
+nav a:hover {
+    background: #2196F3;
+    color: white;
+}
+
+.active {
+    border-bottom: 10px solid #2196F3;
+}
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh-100px);
+}
