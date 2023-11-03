@@ -1,0 +1,11 @@
+    Profile-Card
+--------------------
+
+o   position:   static, relative, absolute, fixed, sticky
+o   overflow:   hidden, auto, scroll
+o   
+
+
+
+sticky -->  sticks only to that element(div, container)
+fixed  -->  fixed to browser
