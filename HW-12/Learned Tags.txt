@@ -1,0 +1,12 @@
+    HW-12
+--------------
+
+JavaScript -->
+
+o   Variables:        (let, const, var)  
+o   Primitive Types:  (Numbers, Boolean, String, Null, Undefined)
+o   Numbers & NaN
+o   Boolean
+o   String methods:   (.length .toUpperCase .toLowerCase .trim)
+o   
+o   
